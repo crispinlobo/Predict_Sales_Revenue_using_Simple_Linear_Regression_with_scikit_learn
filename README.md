@@ -1,0 +1,2 @@
+# Predict_Sales_Revenue_using_Simple_Linear_Regression_with_scikit_learn
+In this project a simple linear regression model was built using the scikit-learn module to predict sales revenue based on advertising spending through mediums such as TV, radio, and newspaper. The model was trained on the popular Advertising dataset. Pandas was employed for data management, and Seaborn for plotting. The model was evaluated to achieve a Root Mean Square Error (RMSE) of 3.21. 
